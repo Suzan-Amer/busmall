@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    margin: auto;
+    background-size: 100%;
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a9f59dfc-db8d-401f-89ba-81657d4dd4c3/dcz8enx-7bebab54-395b-4095-9ef6-82fbdd2597d3.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E5ZjU5ZGZjLWRiOGQtNDAxZi04OWJhLTgxNjU3ZDRkZDRjM1wvZGN6OGVueC03YmViYWI1NC0zOTViLTQwOTUtOWVmNi04MmZiZGQyNTk3ZDMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pESauYWZAslyGjYqV4bFQ_juocSkcW0oQ5JothAoIH8);
+}
+header img {
+    float: left;
+    width: 180px;
+    height: 140px;
+    padding-bottom: 20px;
+    
+}
+
+
+h1 {
+   padding-top: 70px;
+    font-size: 50px;
+    background-color: rgb(21, 21, 65);
+    padding-bottom: 40px;
+    
+    color: rgb(241, 86, 24);
+}
+
+h2{
+    font-size: 30px;
+    color: rgb(241, 86, 24);
+    background-color: rgb(21, 21, 65);
+    position: absolute;
+    padding-left: 60px;
+}
+#result{
+    font-size: 20px;
+    color:rgb(241, 86, 24) ;
+    padding-top: 30px ;
+    position: absolute;
+   
+    padding-left: 10px;
+    border: rgb(241, 86, 24);
+}
+
+img{
+    max-height: 310px;
+    max-width: 130%;
+    margin: 0 auto;
+    padding-top: 50px;
+    float: right;
+    margin: 20px;
+}
+
+#p1 {
+font-size: 20px;
+color: rgb(241, 86, 24);
+float: right;
+padding-top: 70px;
+}
+
+footer p {
+    color: rgb(241, 86, 24);
+padding-top: 600px;
+text-align: center;
+}
+
